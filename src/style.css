@@ -1,0 +1,12 @@
+:root {
+    font-family: Raleway, Arial, sans-serif;
+    line-height: 1.5;
+    font-weight: 400;
+    background: azure;
+    color: #2E4620;
+}
+
+a, a:visited {
+    text-decoration: none;
+    color: #3E6925;
+}
